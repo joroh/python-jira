@@ -6,3 +6,4 @@ filemagic>=1.6
 PyJWT
 requests_jwt
 requests_kerberos
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
